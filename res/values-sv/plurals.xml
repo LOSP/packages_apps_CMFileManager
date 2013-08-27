@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012 The CyanogenMod Project
+<!-- Copyright (C) 2012-2013 The CyanogenMod Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -15,26 +15,23 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <plurals name="n_folders">
-    <item quantity="zero">0 cartelle</item>
-    <item quantity="one">1 cartella</item>
-    <item quantity="other"><xliff:g id="folders">%1$d</xliff:g> cartelle</item>
+    <item quantity="one">1 mapp</item>
+    <item quantity="other"><xliff:g id="folders">%1$d</xliff:g> mappar</item>
   </plurals>
   <plurals name="n_files">
-    <item quantity="zero">0 file</item>
-    <item quantity="one">1 file</item>
-    <item quantity="other"><xliff:g id="files">%1$d</xliff:g> file</item>
+    <item quantity="one">1 fil</item>
+    <item quantity="other"><xliff:g id="files">%1$d</xliff:g> filer</item>
   </plurals>
   <plurals name="search_found_items">
-    <item quantity="zero">Nessun risultato</item>
-    <item quantity="one">1 elemento trovato</item>
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> elementi trovati</item>
+    <item quantity="one">1 föremål funnet</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> föremål funna</item>
   </plurals>
   <plurals name="selection_folders">
-    <item quantity="one">1 cartella selezionata.</item>
-    <item quantity="other"><xliff:g id="folders">%1$d</xliff:g> cartelle selezionate.</item>
+    <item quantity="one">1 mapp vald.</item>
+    <item quantity="other"><xliff:g id="folders">%1$d</xliff:g> mappar valda.</item>
   </plurals>
   <plurals name="selection_files">
-    <item quantity="one">1 file selezionato.</item>
-    <item quantity="other"><xliff:g id="files">%1$d</xliff:g> file selezionati.</item>
+    <item quantity="one">1 fil vald.</item>
+    <item quantity="other"><xliff:g id="files">%1$d</xliff:g> filer valda.</item>
   </plurals>
 </resources>

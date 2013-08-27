@@ -15,23 +15,25 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <plurals name="n_folders">
-    <item quantity="one">1 φάκελος</item>
-    <item quantity="other"><xliff:g id="folders">%1$d</xliff:g> φάκελοι</item>
+    <item quantity="one">1 個のフォルダ</item>
+    <item quantity="other"><xliff:g id="folders">%1$d</xliff:g> 個のフォルダ</item>
   </plurals>
   <plurals name="n_files">
-    <item quantity="one">1 αρχείο</item>
-    <item quantity="other"><xliff:g id="files">%1$d</xliff:g> αρχεία</item>
+    <item quantity="one">1 個のファイル</item>
+    <item quantity="other"><xliff:g id="files">%1$d</xliff:g> 個のファイル</item>
   </plurals>
+  <!-- Search * Search found items -->
   <plurals name="search_found_items">
-    <item quantity="one">Βρέθηκε 1 αντικείμενο</item>
-    <item quantity="other">Βρέθηκαν <xliff:g id="count">%d</xliff:g> αντικείμενα</item>
+    <item quantity="one">1 項目見つかりました</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> 項目見つかりました</item>
   </plurals>
+  <!-- Statusbar text if there are selected folders or files -->
   <plurals name="selection_folders">
-    <item quantity="one">Επιλέχθηκε 1 φάκελος.</item>
-    <item quantity="other">Επιλέχθηκαν <xliff:g id="folders">%1$d</xliff:g> φάκελοι.</item>
+    <item quantity="one">1 個のフォルダを選択中。</item>
+    <item quantity="other"><xliff:g id="folders">%1$d</xliff:g> 個のフォルダを選択中。</item>
   </plurals>
   <plurals name="selection_files">
-    <item quantity="one">Επιλέχθηκε 1 αρχείο.</item>
-    <item quantity="other">Επιλέχθηκαν <xliff:g id="files">%1$d</xliff:g> αρχεία.</item>
+    <item quantity="one">1 個のファイルを選択中。</item>
+    <item quantity="other"><xliff:g id="files">%1$d</xliff:g> 個のファイルを選択中。</item>
   </plurals>
 </resources>
